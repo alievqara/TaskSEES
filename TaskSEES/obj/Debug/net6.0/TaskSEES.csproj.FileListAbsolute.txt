@@ -1,0 +1,15 @@
+D:\vStudio\TaskSEES\TaskSEES\obj\Debug\net6.0\TaskSEES.csproj.AssemblyReference.cache
+D:\vStudio\TaskSEES\TaskSEES\obj\Debug\net6.0\TaskSEES.GeneratedMSBuildEditorConfig.editorconfig
+D:\vStudio\TaskSEES\TaskSEES\obj\Debug\net6.0\TaskSEES.AssemblyInfoInputs.cache
+D:\vStudio\TaskSEES\TaskSEES\obj\Debug\net6.0\TaskSEES.AssemblyInfo.cs
+D:\vStudio\TaskSEES\TaskSEES\obj\Debug\net6.0\TaskSEES.csproj.CoreCompileInputs.cache
+D:\vStudio\TaskSEES\TaskSEES\bin\Debug\net6.0\TaskSEES.exe
+D:\vStudio\TaskSEES\TaskSEES\bin\Debug\net6.0\TaskSEES.deps.json
+D:\vStudio\TaskSEES\TaskSEES\bin\Debug\net6.0\TaskSEES.runtimeconfig.json
+D:\vStudio\TaskSEES\TaskSEES\bin\Debug\net6.0\TaskSEES.dll
+D:\vStudio\TaskSEES\TaskSEES\bin\Debug\net6.0\TaskSEES.pdb
+D:\vStudio\TaskSEES\TaskSEES\obj\Debug\net6.0\TaskSEES.dll
+D:\vStudio\TaskSEES\TaskSEES\obj\Debug\net6.0\refint\TaskSEES.dll
+D:\vStudio\TaskSEES\TaskSEES\obj\Debug\net6.0\TaskSEES.pdb
+D:\vStudio\TaskSEES\TaskSEES\obj\Debug\net6.0\TaskSEES.genruntimeconfig.cache
+D:\vStudio\TaskSEES\TaskSEES\obj\Debug\net6.0\ref\TaskSEES.dll
