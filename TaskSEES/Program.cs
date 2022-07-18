@@ -7,6 +7,8 @@ namespace TaskSEES
         public static void Main()
         {
 
+            
+
             User user1 = new User();
             user1.Name = "Faiq";
             user1.Surname = "Aliyev";
@@ -14,6 +16,7 @@ namespace TaskSEES
             user1.Mounth = 2;
 
             user1.GetDetail();
+
 
 
 

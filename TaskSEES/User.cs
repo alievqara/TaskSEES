@@ -10,6 +10,8 @@ namespace TaskSEES
     {
 
         private static int id { get; set; }
+
+        public int ID { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
         public string NotRobotCode { get; set; }
@@ -33,7 +35,11 @@ namespace TaskSEES
             December = 12,
         }
 
-        public User() => id++;
+        public User()
+        {
+            id++;
+            ID = id;
+        }
 
         public string CheckNotRobotCode(string NotRobotCode)
         {
